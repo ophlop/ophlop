@@ -13,7 +13,7 @@
   <img style="width:40px;height:40px" src="https://api.iconify.design/skill-icons:expressjs-light.svg" alt="express"/>
   <img style="width:40px;height:40px" src="https://api.iconify.design/skill-icons:nodejs-light.svg" alt="node"/>
   <img style="width:40px;height:40px" src="https://api.iconify.design/skill-icons:mongodb.svg" alt="mongo"/>
-  <img style="width:40px;height:40px" src="https://api.iconify.design/skill-icons:jest.svg" alt="mongo"/>
+  <img style="width:40px;height:40px" src="https://api.iconify.design/skill-icons:jest.svg" alt="jest"/>
 </div>
 <hr>
 <h3>My CodeWars Level</h3>
